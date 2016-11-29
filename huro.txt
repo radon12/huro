@@ -1,5 +1,9 @@
 master 1
 change2
 diverging file
+<<<<<<< HEAD
 change4
+=======
+branch c1
+>>>>>>> branch
 
